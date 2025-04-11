@@ -1,4 +1,6 @@
 .header {
+    position: relative;
+    overflow: hidden;
     height: 100%;
     min-height: 600px;
     background-color: #f2f2f2;

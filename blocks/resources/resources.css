@@ -1,0 +1,13 @@
+.resources {
+    width: auto;
+}
+
+.resources__logo-zone {
+    margin: 80px auto 217px;
+    width: 1300px;
+}
+
+.resources__logo {
+    height: 38px;
+    width: auto;
+}

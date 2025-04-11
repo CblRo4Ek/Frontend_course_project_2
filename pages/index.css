@@ -9,11 +9,22 @@
 
 @import url(../blocks/description/description.css);
 
+@import url(../blocks/techniques/techniques.css);
+
+@import url(../blocks/video/video.css);
+
+@import url(../blocks/oakley/oakley.css);
+
 @import url(../blocks/feynman/feynman.css);
 
 @import url(../blocks/digits/digits.css);
 
+@import url(../blocks/khan/khan.css);
+
 @import url(../blocks/kaufman/kaufman.css);
+@import url(../blocks/kaufman/__triangle-pic/kaufman__triangle-pic.css);
+
+@import url(../blocks/resources/resources.css);
 
 @import url(../blocks/table/table.css);
 @import url(../blocks/table/_theme/table__cell_theme_dark.css);

@@ -1,16 +1,20 @@
 .techniques {
     height: auto;
-    width: 80%;
-    padding-top: 100px;
 }
 
-.techniques__title {
-    margin: 0 auto 0;
-    width: 60%;
-    height: 300px;
+.techniques__table {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: 0 100px; /* вертикальный и горизонтальный отступы между ячейками */
+    width: 920px;
+    margin: 0 auto;
 }
 
-.techniques__subtitle {
-    margin: 20px auto 0;
-    width: 60%;
+.techniques__table__cell {
+    width: 240px;
+    text-align: center;
+}
+
+.techniques__table__text-text {
+    line-height: 23pz;
 }
