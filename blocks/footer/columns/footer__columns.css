@@ -1,0 +1,104 @@
+.footer__columns {
+    margin: 0 auto 0;
+    padding-top: 60px;
+    padding-bottom: 40px;
+    min-height: 200px;
+    justify-content: space-between;
+    width: 90%;
+}
+  
+.footer__columns_copyright {
+    position: relative;
+    width: 50%;
+}
+  
+.footer__columns_copyright_author {
+    position: absolute;
+    bottom: 18px;
+    left: 0;
+}
+  
+.footer__columns_copyright_author-2 {
+    bottom: 0;
+    left: 20px;
+}
+  
+.footer__columns_copyright_author-text {
+    line-height: 25px;
+    font-size: 18px;
+    font-weight: normal;
+}
+  
+.footer__columns_copyright_author-text-2 {
+    font-size: 13px;
+}
+  
+.logo__place_footer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 228px;
+    height: 32px;
+}
+  
+.footer__columns_info {
+    margin: 0 auto 0;
+}
+  
+.footer__columns_info_heading {
+    width: auto;
+}
+  
+.footer__columns_info_heading-text {
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: 600;
+}
+  
+.footer__columns_info_links {
+    margin-top: 20px;  
+    margin-bottom: 16px;
+}
+  
+.footer__columns_info_link {
+    height: 10px;
+}
+  
+.footer__columns_info_link-text {
+    display: block;
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: normal;
+}
+  
+.footer__columns_social {
+    margin-right: 0;
+}
+  
+.footer__columns_social_link {
+    display: block; 
+    margin-top: 20px;
+}
+  
+.footer__columns_social_links {
+    display: inline;
+}
+  
+.footer__columns_social_link-merge {
+    height: auto;
+    position: relative;
+}
+  
+.footer__columns_social_link-icon {
+    position: absolute;
+    left: 0;
+    top: 25%;
+    height: 16px;
+    width: 16px;
+    fill: none;
+    fill-rule: 'evenodd';
+}
+  
+.footer__columns_social_link-text {
+    margin-left: 26px;
+}

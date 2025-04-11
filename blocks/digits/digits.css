@@ -1,0 +1,22 @@
+.digits {
+    height: auto;
+}
+
+.digits__title {
+    margin: 100px auto 0;
+    width: 60%;
+}
+
+.digits__title-text {
+    font-size: 60px;
+}
+
+.digits__subtitle {
+    margin: 20px auto 0;
+    width: 60%;
+}
+
+.digits__subtitle-text {
+    line-height: 34px;
+    font-size: 24px;
+}

@@ -1,0 +1,16 @@
+.techniques {
+    height: auto;
+    width: 80%;
+    padding-top: 100px;
+}
+
+.techniques__title {
+    margin: 0 auto 0;
+    width: 60%;
+    height: 300px;
+}
+
+.techniques__subtitle {
+    margin: 20px auto 0;
+    width: 60%;
+}
