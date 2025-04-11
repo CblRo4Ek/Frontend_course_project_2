@@ -15,7 +15,8 @@
     font-size: 120px;
 }
 
-.feynman__sutitle {
+.feynman__subtitle {
+    margin-top: 70px;
     position: relative;
     z-index: 1;
 }
